@@ -81,6 +81,7 @@ body {
   width: 80%;
   margin: 10%;
   margin-top: 5%;
+  background-color:lavenderblush;
   
 }
 header {
@@ -111,4 +112,5 @@ li{
 }
 a {
   color: coral;
+  text-decoration: none;
 }
